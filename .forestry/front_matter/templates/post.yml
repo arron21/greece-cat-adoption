@@ -43,7 +43,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/fox-village-in-japan.md
 - src/pages/posts/working-from-home.md
 - src/pages/posts/nature.md
 - src/pages/posts/fragments-of-iceland.md
-- src/pages/posts/fox-village-in-japan.md
