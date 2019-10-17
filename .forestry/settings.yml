@@ -21,7 +21,7 @@ sections:
   - author
 - type: document
   path: src/pages/index.md
-  label: Home
+  label: Cats
   templates:
   - home
 - type: document
