@@ -44,4 +44,3 @@ fields:
     required: true
 pages:
 - src/pages/posts/fox-village-in-japan.md
-- src/pages/posts/fragments-of-iceland.md
